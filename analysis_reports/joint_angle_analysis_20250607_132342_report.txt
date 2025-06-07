@@ -1,0 +1,142 @@
+Joint Angular Velocity Analysis Report
+==================================================
+
+Video Information:
+Resolution: 1280x720
+Frame Rate: 31.0 FPS
+Total Frames: 127
+File Size: 4.94 MB
+
+Movement Data:
+Max Shoulder Rotation Velocity: 2298.8 deg/s
+Avg Shoulder Rotation Velocity: -3.0 deg/s
+Max Hip Abduction Velocity: 2122.8 deg/s
+Avg Hip Abduction Velocity: 7.6 deg/s
+
+Time Point Analysis:
+Time 0.00s: Shoulder -29.1 deg/s, Hip 72.0 deg/s
+Time 0.03s: Shoulder -12.4 deg/s, Hip 151.7 deg/s
+Time 0.06s: Shoulder -0.7 deg/s, Hip -10.1 deg/s
+Time 0.10s: Shoulder 18.6 deg/s, Hip -19.2 deg/s
+Time 0.13s: Shoulder 4.6 deg/s, Hip 9.6 deg/s
+Time 0.16s: Shoulder 14.0 deg/s, Hip 52.9 deg/s
+Time 0.19s: Shoulder 8.1 deg/s, Hip 1.1 deg/s
+Time 0.23s: Shoulder 7.4 deg/s, Hip -5.1 deg/s
+Time 0.26s: Shoulder -0.8 deg/s, Hip -9.1 deg/s
+Time 0.29s: Shoulder -5.9 deg/s, Hip -13.7 deg/s
+Time 0.32s: Shoulder 9.7 deg/s, Hip -28.0 deg/s
+Time 0.35s: Shoulder 10.9 deg/s, Hip 14.1 deg/s
+Time 0.39s: Shoulder -6.1 deg/s, Hip 15.2 deg/s
+Time 0.42s: Shoulder -12.5 deg/s, Hip 3.5 deg/s
+Time 0.45s: Shoulder -15.2 deg/s, Hip -2.0 deg/s
+Time 0.48s: Shoulder -11.6 deg/s, Hip 14.3 deg/s
+Time 0.52s: Shoulder -10.3 deg/s, Hip 11.5 deg/s
+Time 0.55s: Shoulder -5.0 deg/s, Hip 16.4 deg/s
+Time 0.58s: Shoulder -3.6 deg/s, Hip -2.5 deg/s
+Time 0.61s: Shoulder -5.8 deg/s, Hip -1.2 deg/s
+Time 0.65s: Shoulder -9.1 deg/s, Hip -48.3 deg/s
+Time 0.68s: Shoulder -8.2 deg/s, Hip -46.6 deg/s
+Time 0.71s: Shoulder -15.6 deg/s, Hip 2.0 deg/s
+Time 0.74s: Shoulder -9.6 deg/s, Hip 18.4 deg/s
+Time 0.77s: Shoulder -10.9 deg/s, Hip -23.1 deg/s
+Time 0.81s: Shoulder -0.1 deg/s, Hip 2.7 deg/s
+Time 0.84s: Shoulder 13.9 deg/s, Hip 8.2 deg/s
+Time 0.87s: Shoulder 34.7 deg/s, Hip 17.9 deg/s
+Time 0.90s: Shoulder 6.3 deg/s, Hip 79.4 deg/s
+Time 0.94s: Shoulder 1.7 deg/s, Hip 8.7 deg/s
+Time 0.97s: Shoulder 17.1 deg/s, Hip 53.0 deg/s
+Time 1.00s: Shoulder -25.4 deg/s, Hip -253.9 deg/s
+Time 1.03s: Shoulder -25.4 deg/s, Hip 89.9 deg/s
+Time 1.06s: Shoulder 12.2 deg/s, Hip 31.4 deg/s
+Time 1.10s: Shoulder 15.6 deg/s, Hip -11.7 deg/s
+Time 1.13s: Shoulder -2.3 deg/s, Hip 41.8 deg/s
+Time 1.16s: Shoulder 9.5 deg/s, Hip 379.9 deg/s
+Time 1.19s: Shoulder -18.2 deg/s, Hip -161.1 deg/s
+Time 1.23s: Shoulder -21.2 deg/s, Hip -93.1 deg/s
+Time 1.26s: Shoulder 51.8 deg/s, Hip 214.9 deg/s
+Time 1.29s: Shoulder -2.0 deg/s, Hip 124.4 deg/s
+Time 1.32s: Shoulder 211.4 deg/s, Hip -121.2 deg/s
+Time 1.35s: Shoulder -9.5 deg/s, Hip 11.0 deg/s
+Time 1.39s: Shoulder 38.8 deg/s, Hip 13.9 deg/s
+Time 1.42s: Shoulder -11.8 deg/s, Hip -663.7 deg/s
+Time 1.45s: Shoulder 1521.1 deg/s, Hip 256.0 deg/s
+Time 1.48s: Shoulder -872.7 deg/s, Hip 168.5 deg/s
+Time 1.52s: Shoulder -472.0 deg/s, Hip 209.7 deg/s
+Time 1.55s: Shoulder 53.2 deg/s, Hip 364.9 deg/s
+Time 1.58s: Shoulder -787.2 deg/s, Hip -56.9 deg/s
+Time 1.61s: Shoulder 507.2 deg/s, Hip 111.8 deg/s
+Time 1.65s: Shoulder -708.4 deg/s, Hip 254.2 deg/s
+Time 1.68s: Shoulder 225.2 deg/s, Hip -48.5 deg/s
+Time 1.71s: Shoulder 217.4 deg/s, Hip 4.7 deg/s
+Time 1.74s: Shoulder 60.2 deg/s, Hip -128.4 deg/s
+Time 1.77s: Shoulder -209.5 deg/s, Hip -263.3 deg/s
+Time 1.81s: Shoulder 4.6 deg/s, Hip -215.1 deg/s
+Time 1.84s: Shoulder -42.1 deg/s, Hip 45.8 deg/s
+Time 1.87s: Shoulder -11.8 deg/s, Hip 46.7 deg/s
+Time 1.90s: Shoulder -230.7 deg/s, Hip -155.8 deg/s
+Time 1.94s: Shoulder 19.7 deg/s, Hip -92.8 deg/s
+Time 1.97s: Shoulder -48.2 deg/s, Hip -114.7 deg/s
+Time 2.00s: Shoulder -95.7 deg/s, Hip -88.0 deg/s
+Time 2.03s: Shoulder -66.6 deg/s, Hip 19.4 deg/s
+Time 2.06s: Shoulder 7.3 deg/s, Hip 93.3 deg/s
+Time 2.10s: Shoulder 20.9 deg/s, Hip 35.2 deg/s
+Time 2.13s: Shoulder -144.6 deg/s, Hip 134.2 deg/s
+Time 2.16s: Shoulder 27.9 deg/s, Hip 120.5 deg/s
+Time 2.19s: Shoulder 124.2 deg/s, Hip 237.0 deg/s
+Time 2.23s: Shoulder -124.4 deg/s, Hip 165.7 deg/s
+Time 2.26s: Shoulder -23.8 deg/s, Hip -29.4 deg/s
+Time 2.29s: Shoulder -48.9 deg/s, Hip -24.4 deg/s
+Time 2.32s: Shoulder -6.0 deg/s, Hip -33.1 deg/s
+Time 2.35s: Shoulder 46.5 deg/s, Hip -58.5 deg/s
+Time 2.39s: Shoulder 125.0 deg/s, Hip -430.4 deg/s
+Time 2.42s: Shoulder 1231.1 deg/s, Hip 70.2 deg/s
+Time 2.45s: Shoulder -1479.4 deg/s, Hip 376.9 deg/s
+Time 2.48s: Shoulder 2099.6 deg/s, Hip -125.8 deg/s
+Time 2.52s: Shoulder -320.6 deg/s, Hip 214.7 deg/s
+Time 2.55s: Shoulder -213.6 deg/s, Hip 9.1 deg/s
+Time 2.58s: Shoulder 515.1 deg/s, Hip 25.7 deg/s
+Time 2.61s: Shoulder -651.5 deg/s, Hip 70.1 deg/s
+Time 2.65s: Shoulder -298.0 deg/s, Hip 37.7 deg/s
+Time 2.68s: Shoulder -178.6 deg/s, Hip -36.7 deg/s
+Time 2.71s: Shoulder -54.2 deg/s, Hip -86.6 deg/s
+Time 2.74s: Shoulder -1904.9 deg/s, Hip 169.2 deg/s
+Time 2.77s: Shoulder -1075.7 deg/s, Hip -356.4 deg/s
+Time 2.81s: Shoulder 470.5 deg/s, Hip 154.4 deg/s
+Time 2.84s: Shoulder 2298.8 deg/s, Hip 107.8 deg/s
+Time 2.87s: Shoulder 1453.4 deg/s, Hip 22.3 deg/s
+Time 2.90s: Shoulder -1177.3 deg/s, Hip -254.6 deg/s
+Time 2.94s: Shoulder -583.0 deg/s, Hip 87.3 deg/s
+Time 2.97s: Shoulder -575.4 deg/s, Hip 32.9 deg/s
+Time 3.00s: Shoulder -538.2 deg/s, Hip 215.7 deg/s
+Time 3.03s: Shoulder 66.2 deg/s, Hip -110.5 deg/s
+Time 3.06s: Shoulder -608.5 deg/s, Hip 704.3 deg/s
+Time 3.10s: Shoulder 348.2 deg/s, Hip 672.7 deg/s
+Time 3.13s: Shoulder -365.5 deg/s, Hip -592.5 deg/s
+Time 3.16s: Shoulder -454.6 deg/s, Hip -24.8 deg/s
+Time 3.19s: Shoulder 849.9 deg/s, Hip -128.7 deg/s
+Time 3.23s: Shoulder 477.9 deg/s, Hip -1001.0 deg/s
+Time 3.26s: Shoulder -760.0 deg/s, Hip 272.9 deg/s
+Time 3.29s: Shoulder 928.0 deg/s, Hip -723.1 deg/s
+Time 3.32s: Shoulder 316.0 deg/s, Hip 2122.8 deg/s
+Time 3.35s: Shoulder 363.2 deg/s, Hip -710.8 deg/s
+Time 3.39s: Shoulder 275.9 deg/s, Hip 77.1 deg/s
+Time 3.42s: Shoulder 328.6 deg/s, Hip -201.0 deg/s
+Time 3.45s: Shoulder 425.2 deg/s, Hip -521.6 deg/s
+Time 3.48s: Shoulder 337.1 deg/s, Hip 127.7 deg/s
+Time 3.52s: Shoulder 312.0 deg/s, Hip -279.6 deg/s
+Time 3.55s: Shoulder 238.2 deg/s, Hip -338.4 deg/s
+Time 3.58s: Shoulder -443.7 deg/s, Hip -192.6 deg/s
+Time 3.61s: Shoulder -168.8 deg/s, Hip 118.1 deg/s
+Time 3.65s: Shoulder -10.6 deg/s, Hip -48.6 deg/s
+Time 3.68s: Shoulder 121.2 deg/s, Hip 23.0 deg/s
+Time 3.71s: Shoulder -381.9 deg/s, Hip -7.7 deg/s
+Time 3.74s: Shoulder 296.4 deg/s, Hip 250.9 deg/s
+Time 3.77s: Shoulder 192.6 deg/s, Hip 100.7 deg/s
+Time 3.81s: Shoulder 261.4 deg/s, Hip 242.0 deg/s
+Time 3.84s: Shoulder -238.9 deg/s, Hip -62.3 deg/s
+Time 3.87s: Shoulder 33.5 deg/s, Hip -11.3 deg/s
+Time 3.90s: Shoulder -578.2 deg/s, Hip -8.4 deg/s
+Time 3.94s: Shoulder -404.8 deg/s, Hip -14.5 deg/s
+Time 3.97s: Shoulder 66.5 deg/s, Hip -29.6 deg/s
+Time 4.00s: Shoulder -315.7 deg/s, Hip -59.6 deg/s
+Time 4.03s: Shoulder -173.8 deg/s, Hip 106.3 deg/s

@@ -1,0 +1,145 @@
+Arm Movement Analysis Report
+==================================================
+
+Video Information:
+Resolution: 1280x720
+Frame Rate: 31.0 FPS
+Total Frames: 127
+File Size: 4.94 MB
+
+Movement Data:
+Max Wrist Speed: 11.65 m/s
+Avg Wrist Speed: 1.49 m/s
+Max Elbow Speed: 7.83 m/s
+Avg Elbow Speed: 1.00 m/s
+Max Angle: 180.0 degrees
+Min Angle: 0.0 degrees
+
+Time Point Analysis:
+Time 0.00s: Wrist Speed 0.00 m/s, Elbow Speed 0.00 m/s, Angle 162.6 degrees
+Time 0.03s: Wrist Speed 0.00 m/s, Elbow Speed 0.20 m/s, Angle 164.4 degrees
+Time 0.06s: Wrist Speed 0.00 m/s, Elbow Speed 0.09 m/s, Angle 165.2 degrees
+Time 0.10s: Wrist Speed 0.13 m/s, Elbow Speed 0.00 m/s, Angle 165.5 degrees
+Time 0.13s: Wrist Speed 0.09 m/s, Elbow Speed 0.09 m/s, Angle 167.7 degrees
+Time 0.16s: Wrist Speed 0.09 m/s, Elbow Speed 0.09 m/s, Angle 169.0 degrees
+Time 0.19s: Wrist Speed 0.27 m/s, Elbow Speed 0.00 m/s, Angle 170.5 degrees
+Time 0.23s: Wrist Speed 0.27 m/s, Elbow Speed 0.09 m/s, Angle 172.2 degrees
+Time 0.26s: Wrist Speed 0.20 m/s, Elbow Speed 0.09 m/s, Angle 173.7 degrees
+Time 0.29s: Wrist Speed 0.09 m/s, Elbow Speed 0.00 m/s, Angle 175.0 degrees
+Time 0.32s: Wrist Speed 0.09 m/s, Elbow Speed 0.00 m/s, Angle 175.6 degrees
+Time 0.35s: Wrist Speed 0.09 m/s, Elbow Speed 0.00 m/s, Angle 176.4 degrees
+Time 0.39s: Wrist Speed 0.20 m/s, Elbow Speed 0.00 m/s, Angle 175.9 degrees
+Time 0.42s: Wrist Speed 0.20 m/s, Elbow Speed 0.13 m/s, Angle 176.0 degrees
+Time 0.45s: Wrist Speed 0.00 m/s, Elbow Speed 0.00 m/s, Angle 175.3 degrees
+Time 0.48s: Wrist Speed 0.00 m/s, Elbow Speed 0.00 m/s, Angle 175.3 degrees
+Time 0.52s: Wrist Speed 0.00 m/s, Elbow Speed 0.00 m/s, Angle 174.6 degrees
+Time 0.55s: Wrist Speed 0.09 m/s, Elbow Speed 0.00 m/s, Angle 175.2 degrees
+Time 0.58s: Wrist Speed 0.09 m/s, Elbow Speed 0.00 m/s, Angle 175.9 degrees
+Time 0.61s: Wrist Speed 0.00 m/s, Elbow Speed 0.00 m/s, Angle 175.9 degrees
+Time 0.65s: Wrist Speed 0.00 m/s, Elbow Speed 0.09 m/s, Angle 175.3 degrees
+Time 0.68s: Wrist Speed 0.00 m/s, Elbow Speed 0.00 m/s, Angle 175.3 degrees
+Time 0.71s: Wrist Speed 0.00 m/s, Elbow Speed 0.00 m/s, Angle 174.7 degrees
+Time 0.74s: Wrist Speed 0.09 m/s, Elbow Speed 0.09 m/s, Angle 175.3 degrees
+Time 0.77s: Wrist Speed 0.09 m/s, Elbow Speed 0.00 m/s, Angle 175.4 degrees
+Time 0.81s: Wrist Speed 0.20 m/s, Elbow Speed 0.13 m/s, Angle 177.3 degrees
+Time 0.84s: Wrist Speed 0.27 m/s, Elbow Speed 0.00 m/s, Angle 177.9 degrees
+Time 0.87s: Wrist Speed 0.28 m/s, Elbow Speed 0.00 m/s, Angle 178.2 degrees
+Time 0.90s: Wrist Speed 0.09 m/s, Elbow Speed 0.18 m/s, Angle 177.5 degrees
+Time 0.94s: Wrist Speed 0.18 m/s, Elbow Speed 0.18 m/s, Angle 176.8 degrees
+Time 0.97s: Wrist Speed 0.36 m/s, Elbow Speed 0.27 m/s, Angle 178.2 degrees
+Time 1.00s: Wrist Speed 0.45 m/s, Elbow Speed 0.36 m/s, Angle 179.8 degrees
+Time 1.03s: Wrist Speed 0.28 m/s, Elbow Speed 0.28 m/s, Angle 179.5 degrees
+Time 1.06s: Wrist Speed 0.00 m/s, Elbow Speed 0.36 m/s, Angle 177.5 degrees
+Time 1.10s: Wrist Speed 0.54 m/s, Elbow Speed 0.36 m/s, Angle 178.8 degrees
+Time 1.13s: Wrist Speed 0.54 m/s, Elbow Speed 0.63 m/s, Angle 180.0 degrees
+Time 1.16s: Wrist Speed 0.72 m/s, Elbow Speed 0.32 m/s, Angle 174.7 degrees
+Time 1.19s: Wrist Speed 0.45 m/s, Elbow Speed 0.46 m/s, Angle 174.1 degrees
+Time 1.23s: Wrist Speed 0.57 m/s, Elbow Speed 0.13 m/s, Angle 170.0 degrees
+Time 1.26s: Wrist Speed 0.65 m/s, Elbow Speed 0.32 m/s, Angle 163.7 degrees
+Time 1.29s: Wrist Speed 0.57 m/s, Elbow Speed 0.18 m/s, Angle 157.5 degrees
+Time 1.32s: Wrist Speed 0.63 m/s, Elbow Speed 0.36 m/s, Angle 149.8 degrees
+Time 1.35s: Wrist Speed 0.46 m/s, Elbow Speed 0.20 m/s, Angle 145.0 degrees
+Time 1.39s: Wrist Speed 0.37 m/s, Elbow Speed 0.13 m/s, Angle 139.8 degrees
+Time 1.42s: Wrist Speed 0.20 m/s, Elbow Speed 1.52 m/s, Angle 129.7 degrees
+Time 1.45s: Wrist Speed 0.13 m/s, Elbow Speed 0.81 m/s, Angle 127.1 degrees
+Time 1.48s: Wrist Speed 0.09 m/s, Elbow Speed 0.57 m/s, Angle 128.6 degrees
+Time 1.52s: Wrist Speed 0.00 m/s, Elbow Speed 0.54 m/s, Angle 129.6 degrees
+Time 1.55s: Wrist Speed 0.20 m/s, Elbow Speed 1.65 m/s, Angle 108.5 degrees
+Time 1.58s: Wrist Speed 0.25 m/s, Elbow Speed 0.36 m/s, Angle 107.8 degrees
+Time 1.61s: Wrist Speed 1.08 m/s, Elbow Speed 2.12 m/s, Angle 93.5 degrees
+Time 1.65s: Wrist Speed 0.54 m/s, Elbow Speed 2.39 m/s, Angle 107.7 degrees
+Time 1.68s: Wrist Speed 0.65 m/s, Elbow Speed 0.57 m/s, Angle 110.2 degrees
+Time 1.71s: Wrist Speed 0.54 m/s, Elbow Speed 1.32 m/s, Angle 119.3 degrees
+Time 1.74s: Wrist Speed 1.24 m/s, Elbow Speed 1.16 m/s, Angle 119.4 degrees
+Time 1.77s: Wrist Speed 0.57 m/s, Elbow Speed 0.63 m/s, Angle 123.6 degrees
+Time 1.81s: Wrist Speed 0.57 m/s, Elbow Speed 0.27 m/s, Angle 118.1 degrees
+Time 1.84s: Wrist Speed 0.20 m/s, Elbow Speed 0.36 m/s, Angle 120.6 degrees
+Time 1.87s: Wrist Speed 0.13 m/s, Elbow Speed 0.72 m/s, Angle 119.5 degrees
+Time 1.90s: Wrist Speed 0.28 m/s, Elbow Speed 0.57 m/s, Angle 124.3 degrees
+Time 1.94s: Wrist Speed 0.32 m/s, Elbow Speed 0.80 m/s, Angle 130.9 degrees
+Time 1.97s: Wrist Speed 0.28 m/s, Elbow Speed 0.09 m/s, Angle 132.7 degrees
+Time 2.00s: Wrist Speed 0.45 m/s, Elbow Speed 0.45 m/s, Angle 134.7 degrees
+Time 2.03s: Wrist Speed 1.36 m/s, Elbow Speed 0.89 m/s, Angle 140.9 degrees
+Time 2.06s: Wrist Speed 1.18 m/s, Elbow Speed 2.41 m/s, Angle 134.8 degrees
+Time 2.10s: Wrist Speed 2.77 m/s, Elbow Speed 2.52 m/s, Angle 158.5 degrees
+Time 2.13s: Wrist Speed 2.42 m/s, Elbow Speed 1.19 m/s, Angle 154.5 degrees
+Time 2.16s: Wrist Speed 0.76 m/s, Elbow Speed 0.57 m/s, Angle 159.5 degrees
+Time 2.19s: Wrist Speed 1.56 m/s, Elbow Speed 1.47 m/s, Angle 146.1 degrees
+Time 2.23s: Wrist Speed 2.41 m/s, Elbow Speed 0.28 m/s, Angle 53.9 degrees
+Time 2.26s: Wrist Speed 2.88 m/s, Elbow Speed 0.18 m/s, Angle 10.5 degrees
+Time 2.29s: Wrist Speed 2.78 m/s, Elbow Speed 1.07 m/s, Angle 6.4 degrees
+Time 2.32s: Wrist Speed 0.90 m/s, Elbow Speed 0.72 m/s, Angle 3.6 degrees
+Time 2.35s: Wrist Speed 0.20 m/s, Elbow Speed 0.32 m/s, Angle 0.8 degrees
+Time 2.39s: Wrist Speed 0.48 m/s, Elbow Speed 0.28 m/s, Angle 0.0 degrees
+Time 2.42s: Wrist Speed 1.56 m/s, Elbow Speed 0.45 m/s, Angle 4.2 degrees
+Time 2.45s: Wrist Speed 1.17 m/s, Elbow Speed 0.28 m/s, Angle 3.9 degrees
+Time 2.48s: Wrist Speed 0.57 m/s, Elbow Speed 0.46 m/s, Angle 14.6 degrees
+Time 2.52s: Wrist Speed 1.98 m/s, Elbow Speed 1.22 m/s, Angle 14.7 degrees
+Time 2.55s: Wrist Speed 1.56 m/s, Elbow Speed 1.02 m/s, Angle 18.1 degrees
+Time 2.58s: Wrist Speed 1.79 m/s, Elbow Speed 1.26 m/s, Angle 4.5 degrees
+Time 2.61s: Wrist Speed 2.15 m/s, Elbow Speed 1.98 m/s, Angle 16.7 degrees
+Time 2.65s: Wrist Speed 2.78 m/s, Elbow Speed 0.48 m/s, Angle 11.2 degrees
+Time 2.68s: Wrist Speed 3.62 m/s, Elbow Speed 2.06 m/s, Angle 40.2 degrees
+Time 2.71s: Wrist Speed 3.40 m/s, Elbow Speed 0.84 m/s, Angle 76.1 degrees
+Time 2.74s: Wrist Speed 3.21 m/s, Elbow Speed 1.52 m/s, Angle 91.4 degrees
+Time 2.77s: Wrist Speed 4.12 m/s, Elbow Speed 5.75 m/s, Angle 44.6 degrees
+Time 2.81s: Wrist Speed 2.86 m/s, Elbow Speed 5.61 m/s, Angle 39.0 degrees
+Time 2.84s: Wrist Speed 6.46 m/s, Elbow Speed 7.83 m/s, Angle 112.4 degrees
+Time 2.87s: Wrist Speed 11.65 m/s, Elbow Speed 7.63 m/s, Angle 82.0 degrees
+Time 2.90s: Wrist Speed 10.77 m/s, Elbow Speed 3.48 m/s, Angle 5.5 degrees
+Time 2.94s: Wrist Speed 8.55 m/s, Elbow Speed 2.38 m/s, Angle 31.3 degrees
+Time 2.97s: Wrist Speed 6.27 m/s, Elbow Speed 3.96 m/s, Angle 12.7 degrees
+Time 3.00s: Wrist Speed 5.01 m/s, Elbow Speed 2.11 m/s, Angle 21.7 degrees
+Time 3.03s: Wrist Speed 2.81 m/s, Elbow Speed 0.74 m/s, Angle 64.1 degrees
+Time 3.06s: Wrist Speed 0.40 m/s, Elbow Speed 0.27 m/s, Angle 59.3 degrees
+Time 3.10s: Wrist Speed 1.98 m/s, Elbow Speed 0.18 m/s, Angle 36.1 degrees
+Time 3.13s: Wrist Speed 1.12 m/s, Elbow Speed 1.76 m/s, Angle 48.6 degrees
+Time 3.16s: Wrist Speed 1.61 m/s, Elbow Speed 0.80 m/s, Angle 40.3 degrees
+Time 3.19s: Wrist Speed 1.07 m/s, Elbow Speed 1.39 m/s, Angle 42.0 degrees
+Time 3.23s: Wrist Speed 5.36 m/s, Elbow Speed 0.54 m/s, Angle 97.1 degrees
+Time 3.26s: Wrist Speed 3.95 m/s, Elbow Speed 1.61 m/s, Angle 49.8 degrees
+Time 3.29s: Wrist Speed 2.53 m/s, Elbow Speed 0.46 m/s, Angle 13.4 degrees
+Time 3.32s: Wrist Speed 4.40 m/s, Elbow Speed 2.42 m/s, Angle 4.7 degrees
+Time 3.35s: Wrist Speed 3.49 m/s, Elbow Speed 1.97 m/s, Angle 3.1 degrees
+Time 3.39s: Wrist Speed 4.15 m/s, Elbow Speed 2.24 m/s, Angle 9.9 degrees
+Time 3.42s: Wrist Speed 3.71 m/s, Elbow Speed 1.97 m/s, Angle 18.8 degrees
+Time 3.45s: Wrist Speed 2.58 m/s, Elbow Speed 2.33 m/s, Angle 9.1 degrees
+Time 3.48s: Wrist Speed 3.60 m/s, Elbow Speed 2.04 m/s, Angle 13.9 degrees
+Time 3.52s: Wrist Speed 3.32 m/s, Elbow Speed 2.36 m/s, Angle 13.4 degrees
+Time 3.55s: Wrist Speed 2.92 m/s, Elbow Speed 1.88 m/s, Angle 15.9 degrees
+Time 3.58s: Wrist Speed 2.92 m/s, Elbow Speed 2.38 m/s, Angle 14.2 degrees
+Time 3.61s: Wrist Speed 2.85 m/s, Elbow Speed 2.18 m/s, Angle 14.3 degrees
+Time 3.65s: Wrist Speed 2.29 m/s, Elbow Speed 2.09 m/s, Angle 14.1 degrees
+Time 3.68s: Wrist Speed 1.29 m/s, Elbow Speed 1.52 m/s, Angle 9.2 degrees
+Time 3.71s: Wrist Speed 0.88 m/s, Elbow Speed 0.63 m/s, Angle 14.0 degrees
+Time 3.74s: Wrist Speed 0.57 m/s, Elbow Speed 0.38 m/s, Angle 21.8 degrees
+Time 3.77s: Wrist Speed 0.25 m/s, Elbow Speed 0.65 m/s, Angle 24.2 degrees
+Time 3.81s: Wrist Speed 0.18 m/s, Elbow Speed 0.46 m/s, Angle 22.8 degrees
+Time 3.84s: Wrist Speed 0.77 m/s, Elbow Speed 0.40 m/s, Angle 19.7 degrees
+Time 3.87s: Wrist Speed 0.65 m/s, Elbow Speed 0.20 m/s, Angle 17.6 degrees
+Time 3.90s: Wrist Speed 0.74 m/s, Elbow Speed 0.28 m/s, Angle 23.5 degrees
+Time 3.94s: Wrist Speed 2.43 m/s, Elbow Speed 0.54 m/s, Angle 11.2 degrees
+Time 3.97s: Wrist Speed 1.84 m/s, Elbow Speed 0.54 m/s, Angle 5.8 degrees
+Time 4.00s: Wrist Speed 2.24 m/s, Elbow Speed 1.98 m/s, Angle 5.5 degrees
+Time 4.03s: Wrist Speed 2.46 m/s, Elbow Speed 2.06 m/s, Angle 4.5 degrees
+Time 4.06s: Wrist Speed 0.95 m/s, Elbow Speed 0.57 m/s, Angle 4.5 degrees
